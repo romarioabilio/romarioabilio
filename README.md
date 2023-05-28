@@ -1,15 +1,15 @@
 # Olá, eu sou Romário Abílio 👋
 
-Sou estudante de Ciência da Computação na Universidade Federal do Agreste de Pernambuco (UFAPE). Estou focado em aprimorar meus conhecimentos em Java, Spring, HTML, CSS e Vue.js, além de banco de dados.
+Sou estudante de Ciência da Computação na Universidade Federal do Agreste de Pernambuco (UFAPE). Estou focado em aprimorar meus conhecimentos em Java, Spring, HTML, CSS , Vue.js e banco de dados.
 
-## Sobre mim
+## Sobre mim:
 
 - 🔭 Atualmente sou estudante de Ciência da Computação na UFAPE.
 - 🌱 Estou aprendendo Java, Spring, HTML, CSS e Vue.js.
 - 👯 Estou interessado em colaborar em projetos relacionados a desenvolvimento web.
 - 💬 Fique à vontade para entrar em contato comigo para discutir sobre programação, projetos ou outras questões relacionadas.
 
-## Habilidades
+## Habilidades:
 
 - Linguagens de programação: Java
 - Frameworks: Spring
