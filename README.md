@@ -10,6 +10,7 @@
 ### Welcome to my GitHub! :grin:
    
 #### Hello, my name is Romário, I am a computer science student at the Federal University of Agreste de Pernambuco, I am currently focused on developing my programming skills.
+
 ## Status:
 
 |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romarioabilio&theme=swift)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=romarioabilio&theme=swift&utcOffset=-3)|
