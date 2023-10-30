@@ -9,7 +9,7 @@
 
 ### Welcome to my GitHub! :grin:
    
-#### Hello, my name is Romário, I am a computer science student at the Federal University of Agreste de Pernambuco, I am currently focused on developing my programming skills.
+#### Hello, my name is Romário, I´m a student computer science  at the Federal University of Agreste in Pernambuco, currently i'm focused on developing my skills in programming.
 
 ## Status:
 
