@@ -1,15 +1,4 @@
-<p align="right">
-  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fromarioabilio">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fromarioabilio&label=Profile%20Views&labelColor=%23000000&countColor=%23ffffff&style=flat">
-</a>
-
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Romário+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Romário Welcome to my Profile! animated typed out">
-<img  src="assests/borderseperator.gif">
-
-
-### Welcome to my GitHub! :grin:
-   
-#### Hello, my name is Romário, I´m a student computer science  at the Federal University of Agreste in Pernambuco, currently i'm focused on developing my skills in programming.
+### Olá! Eu sou Romário Abílio 👋
 
 ## Status:
 
