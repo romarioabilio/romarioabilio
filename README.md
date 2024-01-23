@@ -1,4 +1,4 @@
-### Olá! Eu sou Romário Abílio 👋
+### Olá! 👋
 
 ## Status:
 
